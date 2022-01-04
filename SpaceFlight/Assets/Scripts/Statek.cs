@@ -12,6 +12,9 @@ public class Statek : MonoBehaviour
     public float sibilizerForce = 10;
     public float stoppingForce = 1;
 
+    //PALIWO
+    public float Fuel;
+    
     private void Start()
     {
 
@@ -21,6 +24,7 @@ public class Statek : MonoBehaviour
     private void Update()
     {
 
+        LossFuel(0, 0, 0);
 
         float moveHorizontal = Input.GetAxis("Horizontal");//x
         float moveVertical = Input.GetAxis("Vertical");//y
@@ -66,4 +70,12 @@ public class Statek : MonoBehaviour
     }
     #endregion
 
+    public static void LossFuel(float time,float howloss, float Fuel)
+    {
+        if (Fuel==0)
+        {
+            
+        }
+
+    }
 }
