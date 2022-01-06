@@ -15,11 +15,11 @@ C:/Users/USER2/Desktop/ROPE/PhysicalRope-main/SpaceGame/SpaceFlight
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59958
+62430
 Successfully changed project path to: C:/Users/USER2/Desktop/ROPE/PhysicalRope-main/SpaceGame/SpaceFlight
 C:/Users/USER2/Desktop/ROPE/PhysicalRope-main/SpaceGame/SpaceFlight
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.65 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 31.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,235 +35,409 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006363 seconds.
+Registered in 0.003734 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.69 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 38.84 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  8.141 seconds
+- Completed reload, in  2.897 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003853 seconds.
+Registered in 0.001328 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.271 seconds
+- Completed reload, in  1.493 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 57.4 MB.
-System memory in use after: 57.4 MB.
+System memory in use after: 57.5 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1570.
-Total: 4.072800 ms (FindLiveObjects: 0.302700 ms CreateObjectMapping: 0.099700 ms MarkObjects: 3.526900 ms  DeleteObjects: 0.141300 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/Statek.cs
-  artifactKey: Guid(af4978cf12fdf28409744c7497970402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Statek.cs using Guid(af4978cf12fdf28409744c7497970402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63c72e85495dded7ca53be764e8277c') in 0.070910 seconds
-  Import took 0.074265 seconds .
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 2.305400 ms (FindLiveObjects: 0.171400 ms CreateObjectMapping: 0.050500 ms MarkObjects: 1.976700 ms  DeleteObjects: 0.105100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 246.615747 seconds.
-  path: Assets/Scripts/Statek.cs
-  artifactKey: Guid(af4978cf12fdf28409744c7497970402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Statek.cs using Guid(af4978cf12fdf28409744c7497970402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f246a90cbd6c4d22adf7f3e5f660449') in 0.005956 seconds
-  Import took 0.009750 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001257 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.675 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.2 MB.
-System memory in use after: 57.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1573.
-Total: 2.700900 ms (FindLiveObjects: 0.257700 ms CreateObjectMapping: 0.081700 ms MarkObjects: 2.333200 ms  DeleteObjects: 0.025800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002353 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.873 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.2 MB.
-System memory in use after: 57.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1576.
-Total: 4.837400 ms (FindLiveObjects: 0.395500 ms CreateObjectMapping: 0.316200 ms MarkObjects: 4.094200 ms  DeleteObjects: 0.028300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001389 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.978 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.2 MB.
-System memory in use after: 57.3 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1579.
-Total: 8.283700 ms (FindLiveObjects: 0.405200 ms CreateObjectMapping: 0.122900 ms MarkObjects: 7.691100 ms  DeleteObjects: 0.059800 ms)
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Diagonal.dae
+  artifactKey: Guid(65a0fc083db91114ab4198ec19e86c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Diagonal.dae using Guid(65a0fc083db91114ab4198ec19e86c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd5d88dd2654e850983c580932e41423') in 0.331345 seconds
+  Import took 0.334961 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 274.417212 seconds.
-  path: Assets/Scenes/MenuLVL.unity
-  artifactKey: Guid(bcde62e901315bd45ae2f1fa511b4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MenuLVL.unity using Guid(bcde62e901315bd45ae2f1fa511b4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7273c890a1ed5d00bf85164a549bae0a') in 0.032061 seconds
-  Import took 0.036375 seconds .
+  Time since last request: 0.000374 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Connector 1.dae
+  artifactKey: Guid(0c22dfcb0ccb47f42871ef4a1ba9e325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Connector 1.dae using Guid(0c22dfcb0ccb47f42871ef4a1ba9e325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70c4cdd3d634899415ea0407a67ddfd') in 0.024269 seconds
+  Import took 0.027180 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 113.627453 seconds.
-  path: Assets/Scripts/MenuScript
-  artifactKey: Guid(e5c4911cc9607ee45b2764e4fac192f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/MenuScript using Guid(e5c4911cc9607ee45b2764e4fac192f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b74db3bbbced5f71ca527590fc7d405') in 0.004193 seconds
-  Import took 0.006210 seconds .
+  Time since last request: 0.000544 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Materials/Red.mat
+  artifactKey: Guid(578c4695e2b9d834594e484b9172a95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Materials/Red.mat using Guid(578c4695e2b9d834594e484b9172a95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3e44e2bbf0a898cd5ecda758987f56') in 0.121268 seconds
+  Import took 0.125303 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.258052 seconds.
-  path: Assets/Scripts/MenuScript/StartMenu.cs
-  artifactKey: Guid(a617d863645a9984da489b54430c34f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/MenuScript/StartMenu.cs using Guid(a617d863645a9984da489b54430c34f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14334e57ed44bb50f02a69c78cbd5598') in 0.004903 seconds
-  Import took 0.007318 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001047 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.648 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1583.
-Total: 2.300300 ms (FindLiveObjects: 0.177300 ms CreateObjectMapping: 0.049900 ms MarkObjects: 2.048200 ms  DeleteObjects: 0.023300 ms)
+  Time since last request: 0.000475 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Convex.dae
+  artifactKey: Guid(e32d5719741f7dd4f972f523484077f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Convex.dae using Guid(e32d5719741f7dd4f972f523484077f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db23ba08f2edf5c983ed9d2956c07a33') in 0.026778 seconds
+  Import took 0.030939 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 711.919306 seconds.
-  path: Assets/Scenes/MenuLVL.unity
-  artifactKey: Guid(bcde62e901315bd45ae2f1fa511b4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MenuLVL.unity using Guid(bcde62e901315bd45ae2f1fa511b4d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27146c6228937b8bd537cc6d6f3b666d') in 0.024282 seconds
-  Import took 0.029466 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001983 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.714 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1586.
-Total: 4.067600 ms (FindLiveObjects: 0.467100 ms CreateObjectMapping: 0.131900 ms MarkObjects: 3.441100 ms  DeleteObjects: 0.024900 ms)
+  Time since last request: 0.000432 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack
+  artifactKey: Guid(d4cfd44678391ce428f62e64ab326c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack using Guid(d4cfd44678391ce428f62e64ab326c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a08b4fdefef103a7f4602980b80e8a8') in 0.008053 seconds
+  Import took 0.012646 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 71.127239 seconds.
-  path: Assets/Scenes/MenuScen.unity
-  artifactKey: Guid(cb227009010c95146a045a8f285949b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MenuScen.unity using Guid(cb227009010c95146a045a8f285949b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e060e5dab5b62300201105738bf47efc') in 0.018208 seconds
-  Import took 0.021504 seconds .
+  Time since last request: 0.000368 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Straight 1.dae
+  artifactKey: Guid(f76e5083330a1774887db1ec18848595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Straight 1.dae using Guid(f76e5083330a1774887db1ec18848595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3645161983614f46b354ef95447a7d27') in 0.028113 seconds
+  Import took 0.033635 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002041 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.195 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Concave.dae
+  artifactKey: Guid(72d3e9c0a8221e84c878c19447c08447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Concave.dae using Guid(72d3e9c0a8221e84c878c19447c08447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e335f0d342586f4ce19ec69a501156') in 0.025363 seconds
+  Import took 0.028900 seconds .
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1589.
-Total: 2.325600 ms (FindLiveObjects: 0.185400 ms CreateObjectMapping: 0.055500 ms MarkObjects: 2.062000 ms  DeleteObjects: 0.021400 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Straight 2.dae
+  artifactKey: Guid(d1ed9fd5d302cc345a00651b089e707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Straight 2.dae using Guid(d1ed9fd5d302cc345a00651b089e707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eca8fc3bd6d1dbf1e310a826a4315da') in 0.025353 seconds
+  Import took 0.028621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Diagonal.dae
+  artifactKey: Guid(08e493f868e98334b9561248a18cf969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Diagonal.dae using Guid(08e493f868e98334b9561248a18cf969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d8609eb759cebd3ff45da570b1aa16') in 0.025691 seconds
+  Import took 0.029933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Pass 1.dae
+  artifactKey: Guid(4baa6dc1e84640745973ba84f8826e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Pass 1.dae using Guid(4baa6dc1e84640745973ba84f8826e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89e10e6ec9ee4a98ffd3a18487aed88') in 0.037811 seconds
+  Import took 0.041301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Pass 2.dae
+  artifactKey: Guid(b1f16bf1bfcc6d641892093d72002001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Pass 2.dae using Guid(b1f16bf1bfcc6d641892093d72002001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694505c9cd255e12da5ff02bc9c4a7a3') in 0.029696 seconds
+  Import took 0.033782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Concave.dae
+  artifactKey: Guid(422502d5b0dc91d46a25ceb0db689b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Concave.dae using Guid(422502d5b0dc91d46a25ceb0db689b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85ef13341cfbacb902739e5aaa50604') in 0.026671 seconds
+  Import took 0.030774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Convex.dae
+  artifactKey: Guid(28e76008f620a7e419b42b9a454d6203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Convex.dae using Guid(28e76008f620a7e419b42b9a454d6203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119874be628e9ea5967fa9419eb3e60b') in 0.026693 seconds
+  Import took 0.030728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 2.dae
+  artifactKey: Guid(b171fd32029e058429beaee55853e11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 2.dae using Guid(b171fd32029e058429beaee55853e11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e16ea2076925fdcdee4731f55e1341') in 0.029296 seconds
+  Import took 0.034164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Materials/Yellow.mat
+  artifactKey: Guid(beede920da5e36440b7872cc014d1016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Materials/Yellow.mat using Guid(beede920da5e36440b7872cc014d1016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0903f8bcd6b50be473b451ea0f11baaa') in 0.024444 seconds
+  Import took 0.029845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Materials
+  artifactKey: Guid(4ad07d4bd6db30c4e98ee5383bc0b888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Materials using Guid(4ad07d4bd6db30c4e98ee5383bc0b888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eebfe9f5aedacfec6afb81921d1cc102') in 0.008114 seconds
+  Import took 0.012712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 1.dae
+  artifactKey: Guid(42ec1b33cc0ff1045a10129f1ed046f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 1.dae using Guid(42ec1b33cc0ff1045a10129f1ed046f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225d34ab13217132e3421516bcbd908f') in 0.030372 seconds
+  Import took 0.034533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 3.dae
+  artifactKey: Guid(5f0bfec1f76234f43b0f098f4827b98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Straight 3.dae using Guid(5f0bfec1f76234f43b0f098f4827b98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b6ebd747a0fb84aed12a3e4f8ad831') in 0.029073 seconds
+  Import took 0.034301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Materials/Grey.mat
+  artifactKey: Guid(9257ea5dc1ccb084a84fbc8d7bde9717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Materials/Grey.mat using Guid(9257ea5dc1ccb084a84fbc8d7bde9717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9bc53e6dbd2315bfd01c2acd30c61f0') in 0.029043 seconds
+  Import took 0.033528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Connector 2.dae
+  artifactKey: Guid(bc2d01bc395a03f47ab1dcf946bb9682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Clifftile Connector 2.dae using Guid(bc2d01bc395a03f47ab1dcf946bb9682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c99b2bc788059075baf33320c130a3c') in 0.034428 seconds
+  Import took 0.039004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Pass.dae
+  artifactKey: Guid(1edb446e193775447821ee392adf65a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Rocktile Pass.dae using Guid(1edb446e193775447821ee392adf65a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058ea61234b25223ea911563a99ba678') in 0.029501 seconds
+  Import took 0.035932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Convex.dae
+  artifactKey: Guid(89ba98edc5caaff49a3d2c6a7117f260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Convex.dae using Guid(89ba98edc5caaff49a3d2c6a7117f260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ece6dce085fcf1d93ac8b4a16d47b9') in 0.030502 seconds
+  Import took 0.037188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Straight.dae
+  artifactKey: Guid(a548c1c528522b04ebaec75903bd2d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Models/Grasstile Straight.dae using Guid(a548c1c528522b04ebaec75903bd2d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c895dc533165aee61376d62b05c20ea2') in 0.037412 seconds
+  Import took 0.043718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.630247 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Concave.prefab
+  artifactKey: Guid(0e9835138ad5dba4eba43667ec61532b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Concave.prefab using Guid(0e9835138ad5dba4eba43667ec61532b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e19fdc185b398106eaffa937fc7787') in 0.026052 seconds
+  Import took 0.029145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Convex.prefab
+  artifactKey: Guid(62e60247eb7840d418f372425884878d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Convex.prefab using Guid(62e60247eb7840d418f372425884878d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323b4d5f338504ccff14e9d34360acbc') in 0.014778 seconds
+  Import took 0.017257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Pass 1.prefab
+  artifactKey: Guid(afaddd4006a62a74abdae8f295e71be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Pass 1.prefab using Guid(afaddd4006a62a74abdae8f295e71be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8236ca9969bbf01cc09f29a48aa6558a') in 0.015000 seconds
+  Import took 0.019202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Diagonal.prefab
+  artifactKey: Guid(7a160d313e6ca0c4d8d3191f76fc0fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Diagonal.prefab using Guid(7a160d313e6ca0c4d8d3191f76fc0fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b744839ea89ac5fec2418ff92eb548fb') in 0.015548 seconds
+  Import took 0.020205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Pass 2.prefab
+  artifactKey: Guid(d7be01913fd43c542a7c03fa290742fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Pass 2.prefab using Guid(d7be01913fd43c542a7c03fa290742fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af4d505f16e0ddce84bc0863ff4d8d5') in 0.015285 seconds
+  Import took 0.018639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Straight 2.prefab
+  artifactKey: Guid(9447ff023d0aaf84f85f4d030320cd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Straight 2.prefab using Guid(9447ff023d0aaf84f85f4d030320cd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00320113ff2bbb41838f50e42f8a963f') in 0.016610 seconds
+  Import took 0.019532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Convex.prefab
+  artifactKey: Guid(7b6003e95a5e8044389546d65fb058ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Convex.prefab using Guid(7b6003e95a5e8044389546d65fb058ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f221c8c157c54ff0a6bd4e17c6bb1f32') in 0.014633 seconds
+  Import took 0.017584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Connector 1.prefab
+  artifactKey: Guid(c0cec80884ebdff49ba16c422cd781ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Connector 1.prefab using Guid(c0cec80884ebdff49ba16c422cd781ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a291d20c37c047a751d778abbdf351') in 0.015120 seconds
+  Import took 0.018225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Connector 2.prefab
+  artifactKey: Guid(797710b9cddb52647aa5e2345461502f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Connector 2.prefab using Guid(797710b9cddb52647aa5e2345461502f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c579e34810178fe516bfe4bd44fa4ffa') in 0.014852 seconds
+  Import took 0.018203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Diagonal.prefab
+  artifactKey: Guid(80e74acf412f1f7419369c6003532087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Diagonal.prefab using Guid(80e74acf412f1f7419369c6003532087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e11cb3bf32d8cc7e115b82b52824e6') in 0.016376 seconds
+  Import took 0.021131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Convex.prefab
+  artifactKey: Guid(769a9382f28132144be1d13e8384cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Convex.prefab using Guid(769a9382f28132144be1d13e8384cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e7aef6bede11d4a9a9b4120cbf93c4') in 0.016402 seconds
+  Import took 0.019966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Straight 2.prefab
+  artifactKey: Guid(89628d1fa4c1244408401deb6dcd80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Straight 2.prefab using Guid(89628d1fa4c1244408401deb6dcd80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d030bb369fdcfa9e5bbd2bedf9e3d9a') in 0.017213 seconds
+  Import took 0.020029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Straight 1.prefab
+  artifactKey: Guid(76e8f3483e59e9245a3d8a6ccbed01ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Straight 1.prefab using Guid(76e8f3483e59e9245a3d8a6ccbed01ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd61470da09b52d2b8c6ee47da12328a') in 0.016379 seconds
+  Import took 0.019061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Straight 1.prefab
+  artifactKey: Guid(655cb50f5ad933442b422e60a97494bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Clifftile Straight 1.prefab using Guid(655cb50f5ad933442b422e60a97494bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597a6db31d5951ffc66bf4563a3b2afc') in 0.015836 seconds
+  Import took 0.018629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Concave.prefab
+  artifactKey: Guid(ae70de9015df2a942a144182d5917ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Concave.prefab using Guid(ae70de9015df2a942a144182d5917ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036769cffbc1dabf9cf8aea8e6785ca1') in 0.016310 seconds
+  Import took 0.020140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Pass.prefab
+  artifactKey: Guid(9d97c296676698f4c9eb639317cc0e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Rocktile Pass.prefab using Guid(9d97c296676698f4c9eb639317cc0e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d71299da967b321a0efc265710a8cdb') in 0.017673 seconds
+  Import took 0.020831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Straight.prefab
+  artifactKey: Guid(89d02998542d0c24ea73447f89e6304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Prefabs/Grasstile Straight.prefab using Guid(89d02998542d0c24ea73447f89e6304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4733505f5621c5e244a98c7e276a666e') in 0.019966 seconds
+  Import took 0.029094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.973333 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Grey.png
+  artifactKey: Guid(631c1a6e38334d246a15c2f49d105a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Grey.png using Guid(631c1a6e38334d246a15c2f49d105a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5d911374cc116138761a287f68e587') in 0.041947 seconds
+  Import took 0.044724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Yellow.png
+  artifactKey: Guid(66f98752347ef1e4191665f82ff6af61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Yellow.png using Guid(66f98752347ef1e4191665f82ff6af61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e695d09fdef6275c8b8f7ebf69d1a0') in 0.011240 seconds
+  Import took 0.014369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Red.png
+  artifactKey: Guid(37f5e9544549e6a4aa1a1b40e8da7f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyCliffPack/Textures/Colorscheme Red.png using Guid(37f5e9544549e6a4aa1a1b40e8da7f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068e9e58996bde931d1ccdd6c3a07255') in 0.014598 seconds
+  Import took 0.017265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.024701 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(f276a107db01f654b8481dbf03a1de60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(f276a107db01f654b8481dbf03a1de60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48ded153f050cc0290357131098b573') in 0.004998 seconds
+  Import took 0.008229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001315 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(f276a107db01f654b8481dbf03a1de60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(f276a107db01f654b8481dbf03a1de60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48ded153f050cc0290357131098b573') in 0.005346 seconds
+  Import took 0.008422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.802755 seconds.
+  path: Assets/Scenes/SceneWithBackground.unity
+  artifactKey: Guid(6e62ed2e6ee6b824699bc18c7dee3f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SceneWithBackground.unity using Guid(6e62ed2e6ee6b824699bc18c7dee3f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166599abb548f0ae84127c945e95ac30') in 0.007255 seconds
+  Import took 0.010014 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
